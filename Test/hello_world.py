@@ -1,0 +1,1 @@
+print("Hello World, your Python Docker is setup and working.  Alex must be a Docker Master now, thank him ;)"

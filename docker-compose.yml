@@ -1,0 +1,9 @@
+version: '3'
+services:
+  generic_python:
+    build: .
+    container_name: generic_python
+    ports:
+      - '8888:8888'
+    volumes:
+      - '.:/workspace'
